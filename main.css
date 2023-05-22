@@ -39,11 +39,12 @@ button {
 
 .form-campo input{
     padding-bottom: 12px;
+    vertical-align: middle;
     background-color: white;
-    display:block;
-    align-items: center;
+    display:flex;
     justify-content: space-between;
     width: 240px;
     height: 24px;
+  
 }
 
